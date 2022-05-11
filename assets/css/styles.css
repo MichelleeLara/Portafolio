@@ -392,7 +392,7 @@ img {
 }
 
 .skills__names svg {
-    margin-right: 2.6rem;
+    margin-right: var(--mb-2);
 }
 
 .skills__data_Contac,
